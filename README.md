@@ -1,2 +1,2 @@
 # QuavoSS
-QuavoSS - Simple Security with PHP &amp; JSON
+QuavoSS - Simple Security, version 1.00 with PHP &amp; JSON
